@@ -1,4 +1,4 @@
-# IP-Biter - Framework
+SJO12ZW# IP-Biter - Framework
 #### The Hacker-friendly Tracking Framework
 IP-Biter is an open source, easy to deploy, tracking framework that generate high configurables and uniques tracking images and links 
 to embed in e-mails, sites or chat systems and visualize, in an hacker-friendly dashboard, high detailed reports of the tracked users 
